@@ -1,0 +1,14 @@
+$color-principal: aquamarine;
+$color-secundario: yellowgreen;
+
+.titulo-css {
+    background-color: $color-principal;
+    color: $color-secundario;
+
+    &:hover{
+        background-color: $color-secundario;
+        color: $color-principal;
+    }
+
+}
+

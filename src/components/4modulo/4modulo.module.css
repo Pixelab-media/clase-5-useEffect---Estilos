@@ -1,0 +1,7 @@
+.moduloRosa {
+    background-color: pink; 
+}
+
+.moduloRosa:hover{
+    background-color: palevioletred;
+}
